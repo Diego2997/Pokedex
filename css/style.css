@@ -1,77 +1,27 @@
-.planta{
-    background-color: #32b448;
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+.cuadro {
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  font-size: small;
+  font-weight: 500;
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
-
-.veneno{
-    background-color: rgb(188, 130, 243);
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+#planta {
+  background-color: #32b448;
 }
-
-.fuego{
-    background-color: rgb(245, 154, 49);
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+#veneno {
+  background-color: rgb(188, 130, 243);
 }
-
-.agua{
-    background-color: rgb(62, 193, 245);
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+#fuego {
+  background-color: rgb(245, 154, 49);
 }
-
-.volador{
-    background-color: rgb(167, 167, 167);
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+#agua {
+  background-color: rgb(62, 193, 245);
 }
-
-.bicho{
-    background-color: #32b448;
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+#volador {
+  background-color: rgb(167, 167, 167);
 }
-
-.psiquico{
-    background-color: rgb(243, 148, 204);
-    color: white;
-    border-radius: 10px;
-    text-align: center;
-    font-size: small;
-    font-weight: 500;
-    padding-top: 3%;
-    padding-bottom: 3%;
+#psiquico {
+  background-color: rgb(243, 148, 204);
 }
-
