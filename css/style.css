@@ -1,3 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.blanca{
+    color: white;
+}
+@media all and (max-width: 700px){
+    .columna{
+        flex-direction: column;
+    }
+    .columnaInvertida{
+        flex-direction: column-reverse;
+    }
+   
+    .centrado{
+        display: flex;
+        justify-content: center;
+        margin: 15px;
+    }
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    }
+    .FondoCard{
+        background-color: gainsboro;
+    }
+
 .cuadro {
   color: white;
   border-radius: 10px;
@@ -25,7 +55,7 @@
 #psiquico {
   background-color: rgb(243, 148, 204);
 }
-=======
+
 .planta{
     background-color: #32b448;
     color: white;
